@@ -1,0 +1,60 @@
+body{
+
+}
+
+header{background-image:url("../imagenes/header3.png");  
+
+}
+
+
+nav{background-image:url("../imagenes/nav1.jpg");  
+}
+
+section{background-image:url("../imagenes/section5.png"); 
+}
+
+footer{ background-image:url("../imagenes/header3.png");   text-align: right ;
+
+}
+
+div {
+  
+    overflow: auto;
+}
+
+.margenes {margin-right:10%; margin-left:10%; }
+
+.box{
+    overflow: hidden;
+}
+ 
+.columna{
+    float: left;
+    width: 30%;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+.columna2{
+    float: left;
+    width: 50%;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+
+.columna3{
+    float: left;
+    width: 70%;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+
+
+.dentro { margin-right:40%; margin-left:5%; }
+.dentro2 {  margin-left:20%; }
+
+
+
+.left {float: left; width:30%; display:inline-block;  }
+
+
+.right {float: right; width:70%; display:inline-block; }
